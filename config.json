@@ -1,8 +1,8 @@
 {
   "version": "0.0.0",
   "videos": {
-    "attack": null,
-    "farm": null,
+    "attack": "https://youtu.be/wovsprVP-vk",
+    "farm": "https://www.youtube.com/shorts/sFCwvFYoSfU?feature=share",
     "coin": null,
     "mass-support": null,
     "mass_scavenge": null,

@@ -1,0 +1,18 @@
+{
+  "version": "2026-03-26",
+  "videos": {
+    "attack": null,
+    "farm": null,
+    "coin": null,
+    "mass-support": null,
+    "mass_scavenge": null,
+    "send_res": null,
+    "auto_gc": null,
+    "res_balancer": null,
+    "tagger": null,
+    "notify": null
+  },
+  "images": {
+    "logo": null
+  }
+}

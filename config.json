@@ -10,9 +10,9 @@
     "auto_gc": null,
     "res_balancer": null,
     "tagger": null,
-    "notify": null,
+    "notify": null
   },
   "images": {
-    "logo": null,
+    "logo": null
   }
 }

@@ -1,25 +1,27 @@
- {                                                                                                                                                                                             
-    "version": "1.0.1",                                                                                                                                                                         
-    "videos": {
-      "attack": null,
-      "farm": null,
-      "coin": null,
-      "mass-support": null,
-      "mass_scavenge": null,
-      "send_res": null,                                                                                                                                                                         
-      "open_packs": null,
-      "auto_gc": null,                                                                                                                                                                          
-      "res_balancer": null,                                                                                                                                                                   
-      "tagger": null,
-      "knight_trainer": null,
-      "autocaptcha": "https://www.youtube.com/watch?v=RAEmuvRWAGo&list=PLi2Vk8J9C4fE1AkdhqJknjU-MXnbu6TTD",
-      "mass_cancel": null,
-      "support_helper": null,
-      "map_icon_reducer": null,
-      "support_manager_place": null,
-      "notify": null
-    },
-    "images": {
-      "logo": "https://nexustw.com.br/images/logo-112.webp"
-    }                                                                                                                                                                                           
+{
+  "version": "1.0.1",
+  "videos": {
+    "attack": null,
+    "farm": null,
+    "coin": null,
+    "mass-support": null,
+    "mass_scavenge": null,
+    "send_res": null,
+    "open_packs": null,
+    "auto_gc": null,
+    "res_balancer": null,
+    "tagger": null,
+    "knight_trainer": null,
+    "autocaptcha": "https://www.youtube.com/watch?v=RAEmuvRWAGo&list=PLi2Vk8J9C4fE1AkdhqJknjU-MXnbu6TTD",
+    "mass_cancel": null,
+    "support_helper": null,
+    "map_icon_reducer": null,
+    "support_manager_place": null,
+    "notify": null,
+    "overview": "https://youtu.be/tV2V83ndr24",
+    "setup": "https://youtu.be/2Fwh1CqmnjI"
+  },
+  "images": {
+    "logo": "https://nexustw.com.br/images/logo-112.webp"
   }
+}

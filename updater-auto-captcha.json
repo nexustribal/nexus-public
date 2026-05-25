@@ -1,43 +1,43 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "notes": "Release automatizada gerada via GitHub Actions.",
   "pub_date": "2026-05-05T21:13:57.730Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTENjTmR1T01xcVJFdjlvQnNkZzRpUEVBQ24xQ0lpdmtha1BSeEJHdWxDdEhOL2RDUmRseXE1d002MVJLTlBQMlpjRi9ZTi9YTWpOdzNvSEYydWZWVEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1MzMzCWZpbGU6TmV4dXMtQXV0b2NhcHRjaGEuYXBwLnRhci5negp6dElnbzIyZ2pKeEszL01rMnRtWFJYSC9FR0VXeFdVOW8xd3hrTWkzendEWVcyeDNCb2RLSmI2VUJlc2pRWmtFdlIvNm1oaVhHNGVVa3dZK0RUdWZDUT09Cg==",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_aarch64.app.tar.gz"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTENjTmR1T01xcVJFdjlvQnNkZzRpUEVBQ24xQ0lpdmtha1BSeEJHdWxDdEhOL2RDUmRseXE1d002MVJLTlBQMlpjRi9ZTi9YTWpOdzNvSEYydWZWVEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1MzMzCWZpbGU6TmV4dXMtQXV0b2NhcHRjaGEuYXBwLnRhci5negp6dElnbzIyZ2pKeEszL01rMnRtWFJYSC9FR0VXeFdVOW8xd3hrTWkzendEWVcyeDNCb2RLSmI2VUJlc2pRWmtFdlIvNm1oaVhHNGVVa3dZK0RUdWZDUT09Cg==",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_aarch64.app.tar.gz"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTERYd1dtdDhjMExYMWtRUlMwTTQwemIrTy9acmV3VDRBeS9tZ0ZxNXRXS2xVMDlFazJ4WVBZMk1BeEkyRjR2TjFkTExHZ2tsRTRUVGdleVFiMlAxRHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1NTgyCWZpbGU6TmV4dXMtQXV0b2NhcHRjaGFfMC42LjBfeDY0X2VuLVVTLm1zaQo0THdjSmMyV0o0TU5MSm5CUlY3QXNTc1EvWEQxZVR3c284VFFyRjZoZUVyYThzVTFhKzhibU9VWFJsRCtsMkM3ZytISDNLNTRJQ2pRb0o5Nm1yTmdEZz09Cg==",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_0.6.0_x64_en-US.msi"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_0.7.0_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTERYd1dtdDhjMExYMWtRUlMwTTQwemIrTy9acmV3VDRBeS9tZ0ZxNXRXS2xVMDlFazJ4WVBZMk1BeEkyRjR2TjFkTExHZ2tsRTRUVGdleVFiMlAxRHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1NTgyCWZpbGU6TmV4dXMtQXV0b2NhcHRjaGFfMC42LjBfeDY0X2VuLVVTLm1zaQo0THdjSmMyV0o0TU5MSm5CUlY3QXNTc1EvWEQxZVR3c284VFFyRjZoZUVyYThzVTFhKzhibU9VWFJsRCtsMkM3ZytISDNLNTRJQ2pRb0o5Nm1yTmdEZz09Cg==",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_0.6.0_x64_en-US.msi"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_0.7.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTEJkOTFSUERZWkFyYlJjTVJwcHRWM0N4Y2xuMXRDTWFrOVVZNWpibDlaT2pWR050ZmN2WVFDWG11M3lIYmJqRWpvMmFHNjFWZENFWkw3N0dzUFZscGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1NTgyCWZpbGU6TmV4dXMtQXV0b2NhcHRjaGFfMC42LjBfeDY0LXNldHVwLmV4ZQpFdkduOUJOY1hqRk9aaEVnMkluV3VudVdYMFlJQVRRVENrWnVjQUNwNkhFVkdKbFdLL2FBVHlZdkdBTzNUWldIODU1MDVrZ0l6QnJoRTRiTis4V2FDQT09Cg==",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_0.6.0_x64-setup.exe"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_0.7.0_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTE1DdnV0THhDaTZYWG1oTWNEUnNUZ2RCc21hRG13OFd3Mm1LeXZHVDZmNW9BWFQyY1VvUzErdVlFUXdTRElDVnFvdHBaQ0ZmajROVEpqN3VwNU16V1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1NjI5CWZpbGU6TmV4dXMtQXV0b2NhcHRjaGFfMC42LjBfYW1kNjQuQXBwSW1hZ2UKamlodDBPOFljSUF5QUVQV2VwWTJIOGJFMk40ZUVjN2c5TlA3NGJUSHNJUW9HVE1Nb0dXVUdDNWZ3YVphOUUyZGtWekhIMnJuNW5mdFFiTTdpZGRiQmc9PQo=",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_0.6.0_amd64.AppImage"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_0.7.0_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTE1DdnV0THhDaTZYWG1oTWNEUnNUZ2RCc21hRG13OFd3Mm1LeXZHVDZmNW9BWFQyY1VvUzErdVlFUXdTRElDVnFvdHBaQ0ZmajROVEpqN3VwNU16V1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1NjI5CWZpbGU6TmV4dXMtQXV0b2NhcHRjaGFfMC42LjBfYW1kNjQuQXBwSW1hZ2UKamlodDBPOFljSUF5QUVQV2VwWTJIOGJFMk40ZUVjN2c5TlA3NGJUSHNJUW9HVE1Nb0dXVUdDNWZ3YVphOUUyZGtWekhIMnJuNW5mdFFiTTdpZGRiQmc9PQo=",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_0.6.0_amd64.AppImage"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_0.7.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTEZ6QmFQY0J3YUdPUXJRYllpNlpaQ0ZSTzVVbk41RE93ZFlxZy9FaEVCSG5yZ0U0OUYxUVp2ZUhCeEF1ZkRZbXBac0VEMXpTOXdqOGRYajdnZ2lYNHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1NjI5CWZpbGU6TmV4dXMtQXV0b2NhcHRjaGFfMC42LjBfYW1kNjQuZGViCkJFTnN5b0VrNlZEWm5mNzlWMjNpZlJ3Q0tqUVpTS3grNjIxeEZDMTRieTZxNEM5bU9XekxXYjVhV1pTN0kvVlNnVURiUkJaTFpreGd5NFBkTWUwdUN3PT0K",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha_0.6.0_amd64.deb"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha_0.7.0_amd64.deb"
     },
     "linux-x86_64-rpm": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc05RQUlzZURtTFBLWEJ3NTNFczBlYXVPVlhSeUlsTjNjVFJWV3lVNTNrclBDWm1IRThiQVBBRWhQTkh3cWw0cGR5OHVIMmR5V0R5U2MxNG1oekE2aUMzZDFLMFdVR2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDE1NjI5CWZpbGU6TmV4dXMtQXV0b2NhcHRjaGEtMC42LjAtMS54ODZfNjQucnBtCkgyRDZ1dHcyQ1J1VHA1T2kxN3pCRmhkQUNlcENlUGJmSmtodnRyam1LWjJuSCtKeWoybisrcE1NVVhJQm51NWxhdGtQaUpOeW55SzVwV3F0RU5DQkNBPT0K",
-      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.6.0/Nexus-Autocaptcha-0.6.0-1.x86_64.rpm"
+      "url": "https://github.com/nexustribal/nexus-public/releases/download/0.7.0/Nexus-Autocaptcha-0.7.0-1.x86_64.rpm"
     }
   }
 }

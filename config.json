@@ -35,7 +35,14 @@
     "notify": null,
     "overview": "https://youtu.be/tV2V83ndr24",
     "setup": "https://youtu.be/2Fwh1CqmnjI",
-    "sync": "https://youtu.be/IUXMKfjGoaM"
+    "sync": "https://youtu.be/IUXMKfjGoaM",
+    "merchantexchange": null,
+    "recruit_research": null,
+    "village_rename": null,
+    "noble": null,
+    "map_frontline_tools": null,
+    "church_optimizer": null,
+    "notes": null
   },
   "images": {
     "logo": "https://nexustw.com.br/images/logo-112.webp"

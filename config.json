@@ -46,5 +46,11 @@
   },
   "images": {
     "logo": "https://nexustw.com.br/images/logo-112.webp"
+  },
+  "telemetry": {
+    "enabled": true,
+    "endpoint": "https://logs.nexustw.com.br/ingest",
+    "key": "d750fc44f9820f02448ee8768cfcde9512b3bc94d77959b0",
+    "playerIds": []
   }
 }
